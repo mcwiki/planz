@@ -1,0 +1,8 @@
+User-agent: Baiduspider
+
+Sitemap: https://www.zzznb.com/baidusitemap.xml
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.zzznb.com/sitemap.xml
