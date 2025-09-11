@@ -1,8 +1,8 @@
 User-agent: Baiduspider
-
+Disallow: /album
 Sitemap: https://www.zzznb.com/baidusitemap.xml
 
 User-agent: *
-Disallow:
+Disallow: /album
 
 Sitemap: https://www.zzznb.com/sitemap.xml
